@@ -6,7 +6,7 @@ We are a small server on Discord come and say Hi if you are intresed in Marvel, 
 
 In the discord server we have: 
 - A place to get help with your programing problems
-- Talk all MCU, AI, Metaverse
+- Talk all MCU, AI, Metaverse and more
 - Share your projects that you have made
 
 We also have a wonderfull team of programing gods and programing Padawns. Plus a fantastic team of Trail Moderators, Mderators, Assistant Admins, Development team, Admin and finaly the Owner which make up the TVA.
